@@ -1,0 +1,125 @@
+body {
+  background-color : #f7f7f7;
+}
+
+#map {
+  width : 800px;
+  height : 800px;
+}
+
+caption {
+  caption-side : top;
+  font-size : 14px;
+  color : black;
+}
+
+td {
+  font-size : 14px;
+}
+
+.legend {
+    line-height : 18px;
+    color : #555;
+    background-color : #efefef;
+    opacity : 0.9;
+    border-width : thin;
+}
+
+.legend i {
+    width : 18px;
+    height : 18px;
+    float : left;
+    margin-right : 8px;
+    opacity : 0.7;
+}
+
+#table_paginate {
+  font-size : 12px;
+}
+
+#table_wrapper {
+  font-size : 13px;
+  padding : 10px;
+  border-radius : 10px;
+  background-color : #d1e5f0;
+}
+
+#table_wrapper input {
+  border-radius : 5px;
+  border : 0.1px solid grey;
+}
+
+#table_wrapper td {
+  font-size : 12px;
+}
+
+#search {
+  margin-top : 10px;
+  font-size : 12px;
+}
+
+#search input {
+  border-radius : 5px;
+  border : 0.1px solid grey;
+}
+
+#unit {
+  font-size : 14px;
+  padding : 10px;
+  border-radius : 10px;
+  background-color : #d1e5f0;
+}
+
+#recherche {
+  font-size : 13px;
+  padding : 10px;
+  border-radius : 10px;
+  background-color : #d1e5f0;
+}
+
+#search {
+  border-radius : 5px;
+  border : 0.1px solid grey;
+}
+
+h6 {
+  margin-top : 20px;
+  margin-bottom : 0px;
+  color : #053061;
+}
+
+#token {
+  margin-top : 10px;
+}
+
+#lemma {
+  margin-left : 10px;
+}
+
+#hashtag {
+  margin-left : 10px;
+}
+
+#list {
+  list-style : none;
+}
+
+#stat {
+  margin-bottom : 0px;
+  font-size : 13px;
+  margin-left : 10px;
+}
+
+#infos {
+  font-size : 13px;
+  float : right;
+  margin-right : 10px;
+}
+
+#freq {
+  font-size : 12px;
+}
+
+#specif {
+  font-size : 12px;
+}
